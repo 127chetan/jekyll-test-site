@@ -8,7 +8,7 @@ hidden: false
 createdAt: "2018-08-07T23:25:15.627Z"
 updatedAt: "2020-08-25T18:36:16.715Z"
 ---
-
+# Clover platform documentation
 At Clover, we design and build low-cost and highly functional Android-based POS systems for small and medium-sized businesses (SMB). [Clover merchants](doc:meet-our-merchants)  use our suite of apps for different business functions.
 
 For third-party developers, Clover is an open platform for building apps and for integrating external POS systems with Clover devices.
