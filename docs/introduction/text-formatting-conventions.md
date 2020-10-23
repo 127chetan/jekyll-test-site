@@ -1,15 +1,11 @@
 ---
-title: "Text formatting conventions"
+layout: default
+title: Text formatting conventions
 slug: "text-formatting-conventions"
+nav_order: 99
+permalink: /text-formatting-conventions
 hidden: false
-metadata: 
-  description: "Clover's developer docs use specific formatting to explain technical concepts. This page describes the formatting that appears throughout the site."
-  image: 
-    0: "https://files.readme.io/f350207-clover-symbol-green_2.png"
-    1: "clover-symbol-green (2).png"
-    2: 144
-    3: 144
-    4: "#228800"
+description: "Clover's developer docs use specific formatting to explain technical concepts. This page describes the formatting that appears throughout the site."
 createdAt: "2019-04-15T16:03:43.046Z"
 updatedAt: "2019-04-24T20:28:51.864Z"
 ---
