@@ -9,9 +9,7 @@ createdAt: "2018-08-07T23:25:15.627Z"
 updatedAt: "2020-08-25T18:36:16.715Z"
 ---
 # Clover Platform Documentation
-At Clover, we design and build low-cost and highly functional Android-based POS systems for small and medium-sized businesses (SMB). [Clover merchants](doc:meet-our-merchants)  use our suite of apps for different business functions.
-
-For third-party developers, Clover is an open platform for building apps and for integrating external POS systems with Clover devices.
+{% include clover_intro.html %}
 
 ## Reach over hundreds of thousands of merchants
 Clover is the fastest-growing point-of-sale (POS) platform backed by Fiserv, a market leader processing over 50% of global card transactions.
