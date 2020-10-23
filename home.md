@@ -27,3 +27,5 @@ To receive third-party developers communication from Clover, <a href="http://eep
 
 ##Join our community
 Sign up for an account on the [Clover Developer Community](https://community.clover.com/) site. This forum provides a searchable archive of Clover platform information and is moderated by engineers who can answer new questions.
+
+{% include clover_intro.html %}
