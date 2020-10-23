@@ -22,10 +22,10 @@ As a developer, you can make a difference and transform the way merchants run th
 ## Monetize your app
 Merchants spend millions of dollars each year on marketing, loyalty, accounting programs, and other services to run their businesses. Be a trailblazer and help merchants grow their business with your app on the Clover App Market. Developers receive 70% of the net subscription revenue. Learn more about [monetizing your apps](doc:monetizing-your-apps).
 
-##Sign up for third-party communication
+## Sign up for third-party communication
 To receive third-party developers communication from Clover, <a href="http://eepurl.com/dpQYSL" target="_blank">sign up here</a>.
 
-##Join our community
+## Join our community
 Sign up for an account on the [Clover Developer Community](https://community.clover.com/) site. This forum provides a searchable archive of Clover platform information and is moderated by engineers who can answer new questions.
 
 {% include clover_intro.html %}
